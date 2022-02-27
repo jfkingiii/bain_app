@@ -1,0 +1,13 @@
+name: bain_app
+title: bain_app
+username:
+account: jfkingiii
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5740739
+bundleId: 5621568
+url: https://jfkingiii.shinyapps.io/bain_app/
+when: 1645919943.54116
+lastSyncTime: 1645919943.54116
+asMultiple: FALSE
+asStatic: FALSE
